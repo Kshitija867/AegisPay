@@ -79,6 +79,8 @@ The core financial calculations are deterministic to ensure that recommendations
                               |
                               v
                          output.csv
+
+
 AegisPay separates AI-assisted reasoning from critical financial computation.
 Money calculations, dates, forecasting, payment constraints, and safety validation are handled deterministically in Python.
 Project Structure
